@@ -1,10 +1,3 @@
-Author: Stacy Sealky Lee
-FILE: README.md
-TravelingSalesperson
-
-
-This is the README file for PA 11.
-
 Recorded are the timing experiments that compare my improved algorithm
 to the required algorithms for the input file big11.mtx
 and it describes why the algorithms have relative performance differences.
