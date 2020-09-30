@@ -1,5 +1,7 @@
 ## TravelingSalesperson
 
+# NP-hard problem in combinatorial optimization, important in theoretical computer science and operations research
+
 Recorded are the timing experiments that compare my improved algorithm to the required algorithms for the input file big11.mtx and it describes why the algorithms have relative performance differences.
 
 <1st run>
